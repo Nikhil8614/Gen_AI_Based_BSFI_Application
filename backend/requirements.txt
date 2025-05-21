@@ -1,0 +1,16 @@
+Flask
+python-dotenv
+pymysql
+flask_bcrypt
+flask_cors
+flask_sqlalchemy
+flask_jwt_extended
+google.generativeai
+pdf2image
+PyPDF2
+pdfplumber
+pytesseract
+langchain
+langchain_google_genai
+langchain_community
+faiss-cpu
